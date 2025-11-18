@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Tarans_Tools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Intermediate\Build\Win64\x64\MegastoreEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Plugins\Tarans_Tools\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tarans_Tools\Module.Tarans_Tools.cpp.obj"
+"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Plugins\Tarans_Tools\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tarans_Tools\MyBlueprintFunctionLibrary.cpp.obj"
+"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Plugins\Tarans_Tools\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tarans_Tools\TaranFunctionEmporium.cpp.obj"
+"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Plugins\Tarans_Tools\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tarans_Tools\Tarans_Tools.cpp.obj"
+"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Plugins\Tarans_Tools\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tarans_Tools\Default.rc2.res"
+/OUT:"D:\IntoGames\Resources\Megastore_Pack\Megastore_Pack_Bootcamp\Megastore_Pack_Base\Megastore_Pack_Bootcamp\Plugins\Tarans_Tools\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tarans_Tools\UnrealEditor-Tarans_Tools.lib"

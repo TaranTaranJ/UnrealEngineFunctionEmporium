@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Tarans_Tools.cpp.obj": [
+			"MyBlueprintFunctionLibrary.gen.cpp.obj",
+			"TaranFunctionEmporium.gen.cpp.obj",
+			"Tarans_Tools.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MyBlueprintFunctionLibrary.cpp.obj",
+			"TaranFunctionEmporium.cpp.obj",
+			"Tarans_Tools.cpp.obj"
+		]
+	}
+}
