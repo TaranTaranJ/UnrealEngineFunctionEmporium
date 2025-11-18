@@ -1,2 +1,2 @@
 ## UE5 Plugins
-Place the TaranTools file into your plugin folder.
+Place the Taran Tools folder into your plugin folder.
